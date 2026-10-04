@@ -1,0 +1,13 @@
+.pio/
+build/
+dist/
+.vscode/
+.idea/
+*.sln
+*.suo
+.DS_Store
+Thumbs.db
+config.h
+secrets.h
+src/config.h
+src/secrets.h
